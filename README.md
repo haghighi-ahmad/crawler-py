@@ -1,6 +1,6 @@
 # crawler-py
 
-A very simple crawler, to update my code DB
+A very simple python crawler, to update my code DB 
 
 KISS ;)
 
