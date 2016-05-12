@@ -34,6 +34,7 @@ def getSnp(tbl):
 lst = []
 
 for ID in range(0, 220):
+    # put your desired URL bellow
     page = urllib.urlopen("http://XXXXX?id=%s" % ID)
     doc = BeautifulSoup(page, 'html.parser')
     table = doc.table
